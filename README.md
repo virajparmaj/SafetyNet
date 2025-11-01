@@ -128,7 +128,7 @@ If you use SafetyNet, cite as:
 
 ```bibtex
 @software{SafetyNet2024,
-  author  = {Parmar, Viraj and team},
+  author  = {Parmaj, Viraj and team},
   title   = {SafetyNet: Real-Time Threat Detection from Video},
   year    = {2024},
   url     = {https://github.com/virajparmaj/SafetyNet}
